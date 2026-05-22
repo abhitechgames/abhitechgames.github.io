@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.atgstudios.paperly",
+      "sha256_cert_fingerprints": [
+        "0C:AE:40:3C:05:94:1C:B8:53:B3:5F:1B:A5:DD:6C:44:55:7B:AB:44:1E:2D:B9:A2:84:7A:B4:52:3B:31:7D:A0"
+      ]
+    }
+  }
+]
